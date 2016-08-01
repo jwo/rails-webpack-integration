@@ -72,3 +72,16 @@ You should now be able to start the webpack dev server by typing the following
 command:
 
 `npm run start-dev`
+
+## Clean up git commits
+
+You will notice that you are now have a folder called node_modules in your root
+folder. You want to make sure that you aren't loading all those files into your
+version control, so add the following line to your `.gitignore` file.
+
+`node_modules`
+
+It is also a good idea to not include your generated bundle.js file in source,
+so go ahead and add this line as well to your `.gitignore` file:
+
+`app/assets/javascripts/react/*`
