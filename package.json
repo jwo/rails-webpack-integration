@@ -1,0 +1,10 @@
+{
+  "name": "rails-webpack-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Jay Morlan <jay.d.morlan@gmail.com> (http://jdmorlan.com)",
+  "license": "MIT"
+}
