@@ -1,5 +1,7 @@
 # Rails/Webpack Integration
 
+If you like this, you should check out the gem [railspack](https://github.com/jdmorlan/railspack) which does this for you! BAM!
+
 ## Node Installed
 
 Make sure that you have node installed on your system. You can
